@@ -104,7 +104,7 @@ const sortByDepartments=(list)=>{
                 <Grid container spacing={1}>
                   <Grid item xs={12} sm={12} md={4} lg={4}>
                     <SelectBox
-                     id="Department-dropdown-1"
+                     id="Department-dropdown"
                      value={""}
                      label="Department"
                      onChange={null}
@@ -112,22 +112,10 @@ const sortByDepartments=(list)=>{
                     />
                   </Grid>
                   <Grid item xs={12} sm={12} md={4} lg={4}>
-                  <SelectBox
-                     id="Department-dropdown-2"
-                     value={""}
-                     label="Location"
-                     onChange={null}
-                     options={[]}
-                    />
+                    T3
                   </Grid>
                   <Grid item xs={12} sm={12} md={4} lg={4}>
-                  <SelectBox
-                     id="Department-dropdown-3"
-                     value={""}
-                     label="Function"
-                     onChange={null}
-                     options={[]}
-                    />
+                    T4
                   </Grid>
                 </Grid>
               </Grid>

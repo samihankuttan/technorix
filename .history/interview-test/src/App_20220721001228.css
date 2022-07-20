@@ -1,0 +1,21 @@
+.title1{
+  letter-spacing: 1;
+  font-weight: bold !important;
+  color: #616161 !important;
+}
+
+.title2{
+  letter-spacing: 1;
+  font-weight: bold !important;
+  color: #000 !important;
+}
+
+.list-box{
+  height: 150px !important;
+  background-color: pink !important;
+}
+
+.btn-round{
+  border-radius: 50px !important;
+  min-width: 110px !important;
+}

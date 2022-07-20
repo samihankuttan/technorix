@@ -10,21 +10,13 @@
   color: #000 !important;
 }
 
-.title3{
-  letter-spacing: 1;
-  font-weight: bold !important;
-  color: #263238 !important;
-}
-
-
-
 .subtitle1{
   letter-spacing: 1;
-  color: #37474f !important;
+  color: #607d8b !important;
 }
 
 .list-box{
-  height: 120px !important;
+  height: 100px !important;
 }
 
 .list-box:hover{

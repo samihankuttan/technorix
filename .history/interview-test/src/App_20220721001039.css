@@ -1,0 +1,16 @@
+.title1{
+  letter-spacing: 1;
+  font-weight: bold !important;
+  color: #616161 !important;
+}
+
+.title2{
+  letter-spacing: 1;
+  font-weight: bold !important;
+  color: #000 !important;
+}
+
+.btn-round{
+  border-radius: 50px !important;
+  min-width: 250px !important;
+}

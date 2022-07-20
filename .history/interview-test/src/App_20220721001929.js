@@ -6,8 +6,6 @@ import { Box, Grid, Typography } from '@mui/material';
 import { APIS } from './apiconstants/APIURLS';
 
 import InputBox from './components/InputBox';
-import SelectBox from './components/SelectBox';
-
 import Card1 from './components/Card1';
 import Card2 from './components/Card2';
 
@@ -103,31 +101,13 @@ const sortByDepartments=(list)=>{
               <Grid item xs={12} sm={12} md={12} lg={12}>
                 <Grid container spacing={1}>
                   <Grid item xs={12} sm={12} md={4} lg={4}>
-                    <SelectBox
-                     id="Department-dropdown-1"
-                     value={""}
-                     label="Department"
-                     onChange={null}
-                     options={[]}
-                    />
+                    
                   </Grid>
                   <Grid item xs={12} sm={12} md={4} lg={4}>
-                  <SelectBox
-                     id="Department-dropdown-2"
-                     value={""}
-                     label="Location"
-                     onChange={null}
-                     options={[]}
-                    />
+                    T3
                   </Grid>
                   <Grid item xs={12} sm={12} md={4} lg={4}>
-                  <SelectBox
-                     id="Department-dropdown-3"
-                     value={""}
-                     label="Function"
-                     onChange={null}
-                     options={[]}
-                    />
+                    T4
                   </Grid>
                 </Grid>
               </Grid>
